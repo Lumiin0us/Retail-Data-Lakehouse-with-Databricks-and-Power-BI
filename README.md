@@ -1,0 +1,1 @@
+To build an end-to-end data pipeline on Azure Databricks that ingests retail sales data from multiple sources, cleans and transforms it into a Medallion Architecture (Bronze → Silver → Gold), and provides business insights dashboards in Power BI.
